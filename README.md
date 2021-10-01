@@ -1,3 +1,3 @@
 # Patika-SecondProject
  
-Live: https://patika-second-project-ea9uabmjf-patika-secondproject.vercel.app
+Live: https://hw-2-aagenn6ya-homework3.vercel.app
